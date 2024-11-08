@@ -1,0 +1,3 @@
+- golang not silver bullet
+- right tool for right job
+- never stop learning ( but no need to hurry )
